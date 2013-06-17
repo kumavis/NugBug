@@ -11,3 +11,12 @@ Search, pull, or publish right from the Unity editor!
 Development is pending https://nuget.codeplex.com/workitem/3408 or workaround
 
 ( looks like there are 800 open issues at time of writing 0_0 )
+
+
+
+Some Reading Material
+=====================
+
+http://docs.nuget.org/docs/start-here/nuget-faq
+
+http://devlicio.us/blogs/rob_reynolds/archive/2011/07/15/extend-nuget-command-line.aspx
