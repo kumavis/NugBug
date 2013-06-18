@@ -19,8 +19,10 @@ Some Reading Material
 
 http://docs.nuget.org/docs/start-here/nuget-faq
 
+http://www.codedistillers.com/rui/2013/01/09/net-web-dev-on-mac-nuget-monodevelop-nancy/
+
 http://devlicio.us/blogs/rob_reynolds/archive/2011/07/15/extend-nuget-command-line.aspx
 
 http://docs.nuget.org/docs/contribute/setting-up-the-nuget-development-environment
 
-http://www.codedistillers.com/rui/2013/01/09/net-web-dev-on-mac-nuget-monodevelop-nancy/
+http://haacked.com/archive/2011/03/31/hosting-simple-nuget-package-feed.aspx
